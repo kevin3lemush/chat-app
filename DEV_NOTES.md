@@ -13,3 +13,8 @@ Personal development log — notes, findings, and ongoing work.
 - Improved error handling in edge cases
 - Wrote notes on upcoming feature design
 - Drafted initial implementation plan for v2
+
+## 2026-04-29
+- Updated CI cache strategy
+- Improved error handling in edge cases
+- Removed unused variable declarations
